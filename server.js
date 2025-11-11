@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 const API_URL = "https://threatfox-api.abuse.ch/api/v1/";
-const API_KEY = "8c06082a799d043bc4d817e4ca356140b32b5d507e31fedc";
+const API_KEY =}}}}}}}}}}}}}}}}}}}};
 
 // --------------------
 // Check IOC Route
